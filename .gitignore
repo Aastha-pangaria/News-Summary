@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+
+# Data files (adjust as needed)
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.tar.gz
+data/
+datasets/
+
+# System files
+.DS_Store
+Thumbs.db
